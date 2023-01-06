@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samarth Chitgopekar</h1>
-<h3 align="center">A Bulls 🐂 🏀 Fan from 📍 Chicago, IL</h3>
+<h1 align="center">Hi 👋, I'm Kuldeep Debnath</h1>
+<h3 align="center">A Coding Enthusiast from 📍 Chicago, IL</h3>
 <br>
 
 ## `$ whois KULDUDECS50`

@@ -3,11 +3,11 @@
 <h4 align="center">a freelance developer and a high school student from Chicago, Illinois. See my <a href="https://github.com/KULDUDECS50" target="_blank">resume</a> for more</h4>
 </div>
 
-# -*- <div align="center"> -*-
-# -*-   <a href="https://github.com/KULDUDECS50">-*-
-# -*-   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"-*-
+<div align="center"> -*-
+ <a href="https://github.com/KULDUDECS50">
+
        alt="snake" /></a>
-# -*- </div>-*-
+ </div>
 
 ```python
 #!/usr/bin/python

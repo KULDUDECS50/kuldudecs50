@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kuldeep</h1>
+<h1 align="center">Hi, I'm Kuldeep</h1>
 <h4 align="center">a freelance developer and a high school student from Chicago, Illinois. See my <a href="https://github.com/KULDUDECS50" target="_blank">resume</a> for more</h4>
 </div>
 

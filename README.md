@@ -1,9 +1,9 @@
 <div align="center">
-<h1>Hi there! 👋</h1>
+<h1>Hi there, I'm Kuldeep! 👋</h1>
 
-<h2>I'm Kuldeep, a Computer Science major based in Chicago. Passionate about coding, problem-solving, and crafting innovative solutions. </h2>
+<h3> Im a a Computer Science major based in Chicago. Passionate about coding, problem-solving, and crafting innovative solutions. </h3>
     <br>
-    <h2>Check out my work here and on my site: [kuldp.dev](https://kuldp.dev).</h2>
+    <h3>Check out my work @ <a href="https://kuldp.dev/">kuldp.dev</a>.</h3>
 
 Let’s build something amazing together! 🚀
 

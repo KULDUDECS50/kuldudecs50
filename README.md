@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi there, I'm Kuldeep! 👋</h1>
 
-<h3> Im a a Computer Science major based in Chicago.</h3>
+<h3>Computer Science major based in Chicago.</h3>
 <h4>Check out my work @ <a href="https://kuldp.dev/">kuldp.dev</a>.</h4>
 <br>
 </div>

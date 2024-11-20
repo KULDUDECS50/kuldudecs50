@@ -16,7 +16,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Kuldeep Debnath"
-        self.role = "High School Junior"
+        self.role = "CS Freshman"
         (night)self.role = "Software Engineer"
         self.language_spoken = ["en_US"]
 
@@ -31,6 +31,7 @@ me.say_hi()
 
 - Personal website and blog: https://kuldp.dev/
 - Dev.to Blog: https://dev.to/kuldudecs50
+- LinkedIn: https://linkedin.com/in/kuldeep-debnath/
 
 
 ## 🔧 Technologies & Tools

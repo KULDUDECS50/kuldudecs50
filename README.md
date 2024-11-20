@@ -3,8 +3,7 @@
 
 <h3> Im a a Computer Science major based in Chicago.</h3>
 <h4>Check out my work @ <a href="https://kuldp.dev/">kuldp.dev</a>.</h4>
-Let’s build something amazing together! 🚀
-
+<br>
 </div>
 
 

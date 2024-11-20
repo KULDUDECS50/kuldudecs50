@@ -1,6 +1,10 @@
 <div align="center">
-<h1 align="center">Hi, I'm Kuldeep</h1>
-<h4 align="center">a freelance developer and a high school student from Chicago, Illinois. See my <a href="https://github.com/KULDUDECS50" target="_blank">resume</a> for more</h4>
+### Hi there! 👋
+
+I'm Kuldeep, a Computer Science major based in Chicago. Passionate about coding, problem-solving, and crafting innovative solutions. Check out my work here and on my site: [kuldp.dev](https://kuldp.dev).
+
+Let’s build something amazing together! 🚀
+
 </div>
 
 

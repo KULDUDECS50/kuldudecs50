@@ -29,7 +29,7 @@ me.say_hi()
 ```
 ## 📝 Blogs
 
-- Portfolio: https://kuldp.dev/
+- Portfolio: https://kuldeep.us/
 - LinkedIn: https://linkedin.com/in/kuldeep-debnath/
 
 

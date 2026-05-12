@@ -28,10 +28,10 @@ Building at the intersection of **AI/ML**, **healthtech**, and **full-stack web*
 
 ## 🧠 Selected Personal Work
 
-- **BUILDERS Website** — Next.js portal with geo-fenced attendance + Airtable-integrated application pipelines.
-- **Bull vs Bear Market Detection** — Time-series classifier for market regimes using Random Forest + rolling-window signal extraction.
-- **[EV Charger Analysis](https://github.com/kuldudecs50/ev-charger-analysis)** *(Data I/O 2025)* — Nationwide demand analysis with clustering + time-series forecasting.
-- **luxe.** — Headless commerce platform integrating Next.js with Shopify GraphQL + MongoDB.
+- **[Match.](https://github.com/kuldudecs50/biohack-osu-2026)** — An organ-allocation platform that uses XGBoost to continuously score donor viability, designed to reduce the discard rate that costs lives every year. Built as a serious answer to a real failure in transplant logistics.
+- **AutoPatt** — A closed-loop precision-alignment system for photolithography, hitting sub-micrometer accuracy with OpenCV and custom motor control. Started at HackOHI/O, now a startup direction pitched at ShowOhio.
+- **Photogrammetry Asset Pipeline** — End-to-end 3D reconstruction from standard smartphone cameras, putting professional-grade asset capture in anyone's pocket. NSF-grant supported.
+- **BUILDERS Website** — The home of BUILDERS, OSU's student-run venture community. I designed and shipped the full platform: membership applications, geo-fenced event check-in, Airtable-backed pipelines, and a Slack-integrated ops layer. It runs the org.
 
 > Full case studies + writeups at **[kuldeep.us](https://kuldeep.us/)**.
 

@@ -1,10 +1,67 @@
-# Kuldeep Debnath
+<table width="100%">
+  <tr>
+    <td valign="middle">
+      <a href="https://linkedin.com/in/kuldeep-debnath" title="LinkedIn"><img align="right" hspace="6" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+      <a href="https://kuldp.dev" title="kuldp.dev"><img align="right" hspace="6" width="26" alt="Blog" src="https://cdn.simpleicons.org/mdx/888888"></a>
+      <a href="https://kuldeep.us"><b>kuldeep.us</b></a> · <b>Hey! I'm&nbsp;Kuldeep&nbsp;👋</b> CS&nbsp;&amp;&nbsp;Math&nbsp;@&nbsp;Ohio&nbsp;State · Chicago&nbsp;→&nbsp;Columbus
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/danishm07/ballboy"><img width="32%" src="assets/ballboy.gif" alt="Ballboy: live match overlay with player detection" /></a>
+      <a href="https://github.com/KULDUDECS50"><img width="32%" src="assets/calhacks.gif" alt="CalHacks project demo" /></a>
+      <a href="https://github.com/KULDUDECS50/Notis"><img width="32%" src="assets/notis.gif" alt="Notis: screenshot to calendar event" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>languages</b><br />
+      <img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FFDE57"/>
+      <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/>
+      <img src="https://img.shields.io/badge/-Java-111?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+      <img src="https://img.shields.io/badge/-Swift-111?style=flat-square&logo=swift&logoColor=F05138"/>
+      <img src="https://img.shields.io/badge/-C-111?style=flat-square&logo=c&logoColor=A8B9CC"/>
+      <img src="https://img.shields.io/badge/-SQL-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>frontend / apps</b><br />
+      <img src="https://img.shields.io/badge/-React-111?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/-Next.js-111?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-React%20Native-111?style=flat-square&logo=expo&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+      <img src="https://img.shields.io/badge/-Three.js-111?style=flat-square&logo=threedotjs&logoColor=ffffff"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>ml / ai</b><br />
+      <img src="https://img.shields.io/badge/-PyTorch-111?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+      <img src="https://img.shields.io/badge/-XGBoost-111?style=flat-square&logo=xgboost&logoColor=189fdd"/>
+      <img src="https://img.shields.io/badge/-scikit--learn-111?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+      <img src="https://img.shields.io/badge/-OpenCV-111?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
+      <img src="https://img.shields.io/badge/-Claude-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
+      <img src="https://img.shields.io/badge/-Pinecone-111?style=flat-square&logo=pinecone&logoColor=ffffff"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>infra / data</b><br />
+      <img src="https://img.shields.io/badge/-FastAPI-111?style=flat-square&logo=fastapi&logoColor=009688"/>
+      <img src="https://img.shields.io/badge/-Postgres-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+      <img src="https://img.shields.io/badge/-Supabase-111?style=flat-square&logo=supabase&logoColor=3FCF8E"/>
+      <img src="https://img.shields.io/badge/-Firebase-111?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+      <img src="https://img.shields.io/badge/-Docker-111?style=flat-square&logo=docker&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-Cloudflare-111?style=flat-square&logo=cloudflare&logoColor=F38020"/>
+      <img src="https://img.shields.io/badge/-Arduino-111?style=flat-square&logo=arduino&logoColor=00878F"/>
+    </td>
+  </tr>
+</table>
 
-CS & Math @ Ohio State · Chicago → Columbus
-
-[kuldeep.us](https://kuldeep.us) · [LinkedIn](https://linkedin.com/in/kuldeep-debnath) · [GitHub](https://github.com/KULDUDECS50)
-
----
+<details>
+<summary><b>all projects</b></summary>
 
 ## Projects
 
@@ -126,20 +183,4 @@ The API Blueprint: Mastering API Workflows — 450+ pages on enterprise API desi
 
 The API Terminology Handbook — beginner reference for API types, HTTP semantics, and interview vocabulary [[AMAZON]](https://www.amazon.com/API-Terminology-Handbook-Ultimate-Guide-ebook/dp/B0BSSJ9PLL)
 
----
-
-## Skills & Stuff
-
-**Languages** — Python, TypeScript/JavaScript, Java, Swift, C, SQL
-
-**ML** — PyTorch, XGBoost, scikit-learn, OpenCV, YOLOv8, Pandas, NumPy, spiking networks
-
-**Retrieval & LLM** — RAG pipelines, Pinecone, Claude API, structured output parsing, prompt engineering
-
-**Frameworks** — React, Next.js, React Native/Expo, FastAPI, Flask, Node, Tailwind, Panda3D, Three.js
-
-**Data** — PostgreSQL, SQLite, Supabase, Firebase, MongoDB, Trino
-
-**Infra** — Docker, Linux, Vercel, Cloudflare, CI/CD, Chrome Extension APIs
-
-**Physical** — Arduino firmware, stepper control, WebSocket hardware loops, IEEE-738 thermal modeling, photogrammetry
+</details>
